@@ -7,7 +7,7 @@ namespace MarkPad
 {
     public static class Constants
     {
-        public static readonly string[] DefaultExtensions = new[] { ".md", ".markdown", ".mdown", ".mkd" };
+        public static readonly string[] DefaultExtensions = new[] { ".md", ".markdown", ".mdown", ".mkd", ".mkd2" };
 
         public static readonly string[] Icons = new[] { "markpaddoc.ico" };
 
